@@ -16,10 +16,10 @@ export default {
 <style scoped>
   h1 {
     text-align: center;
-    color: blue;
+    color: white;
   }
 
   .container {
-    background-color: green;
+    background-color: black;
   }
 </style>
